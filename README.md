@@ -9,11 +9,12 @@
 ### About me:
 Welcome to my page!
 I'm Francesco, a fullstack developer from **Parme, Italy** 🇮🇹, where currently I'm also a Management Engineering student at its University.
-I'm a software engineer de-facto, by not having a formal education but by having studied software engineering by myself for more than 6 years, and having worked on many complex projects.
+I'm a software engineer de-facto, by not having a formal education but by having studied software engineering by myself for more than 8 years, and having worked on many complex projects.
 #### My biggest accomplishments:
 My biggest accomplishment in the IT field was going from a complete-newbie level to having built a VR headset completely from scratch by learning everything by myself (Godot 3d game engine + Arduino hardware + C++ serial port script)
 ####  What I'm currently pursuing in my career
-I'm fully focused into getting my development skills to the next level.
+I'm highly focused on becoming a proficient, efficient and skilled senior full stack developer, and my focus is going to be all around ReactJS ecosystem, AWS, Serverless Architecture and Web3 dApps.
+
 These are my current software developer skills:
   
 Legend:  

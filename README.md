@@ -31,7 +31,8 @@ ReactJS [Adv]🎯🎯🎯
 React Native [Beg-Int]🎯  
 
 ⚙️ Backend  
-PHP (Pure PHP, Laravel) [Int]🎯🎯🎯  
+PHP (Pure PHP) [Int]🎯
+Laravel [Beg-Int]🎯🎯🎯
 Python (Django), JS (NodeJS) [Beg-Int]🎯  
 
 🗃️ Databases  
@@ -42,12 +43,12 @@ NoSQL (MongoDB, Firestore) [Beg-Int]🎯
 🧪 UI/UX Design  
 Figma, UI, UX design [Beg-Int]🎯🎯🎯  
 
-☁️ Cloud Services  
+☁️ Infrastructure  
 AWS [Beg]🎯🎯🎯  
 Netlify, Heroku [Int]  
 
 ✈️ Deployment  
-Docker [Int]🎯🎯🎯  
+Docker [Beg-Int]🎯🎯🎯  
 Kubernetes [Beg]📆  
 CI/CD [Beg-Int]🎯🎯  
 

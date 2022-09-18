@@ -31,8 +31,8 @@ ReactJS [Adv]🎯🎯🎯
 React Native [Beg-Int]🎯  
 
 ⚙️ Backend  
-Laravel [Beg-Int]🎯🎯🎯</br>
 PHP (Pure PHP) [Int]🎯</br>
+Laravel [Beg-Int]🎯🎯🎯</br>
 Python (Django), JS (NodeJS) [Beg-Int]🎯 
 
 🗃️ Databases  

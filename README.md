@@ -27,7 +27,7 @@ Legend:
 
 💻 Frontend  
 HTML, CSS, JS, TS [Adv]  
-ReactJS [Adv]🎯🎯🎯  
+ReactJS [Int-Adv]🎯🎯🎯  
 React Native [Beg-Int]🎯  
 
 ⚙️ Backend  

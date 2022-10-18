@@ -15,7 +15,7 @@ My biggest accomplishment in the IT field was going from a complete-newbie level
 ####  What I'm currently pursuing in my career
 I'm highly focused on becoming a proficient, efficient and skilled full stack developer (my focus is all around ReactJS ecosystem, AWS, Serverless Architecture and Web3 dApps).
 
-But I'm also hughly interested into marketing, sales and business development!
+But I'm also highly interested into marketing, sales and business development!
 
 These are my current software developer skills:
   
